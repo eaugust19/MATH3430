@@ -52,4 +52,3 @@ Wyoming,West,10,1142
 ,,,
 ,,,
 ,,,
-"The variables I have for my data are population and violent crime rate. The population is the total population recorded by the US census in 2014, and the violet crime rate is the number of violent crimes that happened in that state in 2014. I got the population data from the US census website (https://www.census.gov/data/tables/2017/demo/popest/state-total.html), and I got the crime rate data from the Uniform Crime Reporting Statistics website (https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeTrendsInOneVar.cfm).",,,
